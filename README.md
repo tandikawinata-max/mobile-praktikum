@@ -1,17 +1,32 @@
-# yaya
+# Proyek
 
-A new Flutter project.
+Pemrograman Mobile
 
-## Getting Started
+## Deskripsi
 
-This project is a starting point for a Flutter application.
+Proyek ini merupakan aplikasi latihan yang dikembangkan untuk
+mempelajari pemrograman mobile menggunakan Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Proyek ini digunakan sebagai bagian dari proses pembelajaran
+dan pengembangan aplikasi pada perkuliahan Pemrograman Mobile.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Pengembang
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nama panggilan / akun GitHub: tandikawinata-max
+
+## Teknologi
+
+- Flutter
+- Dart
+- Android Studio
+- Visual Studio Code
+
+## Status
+
+Proyek awal perkuliahan.
+
+## Tujuan
+
+Proyek ini bertujuan untuk memahami dasar-dasar pengembangan
+aplikasi mobile menggunakan Flutter, mulai dari pembuatan project,
+pengembangan antarmuka, hingga pengelolaan source code menggunakan Git dan GitHub.
