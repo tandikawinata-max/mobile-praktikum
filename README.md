@@ -1,32 +1,22 @@
-# Proyek
-
-Pemrograman Mobile
-
-## Deskripsi
-
-Proyek ini merupakan aplikasi latihan yang dikembangkan untuk
-mempelajari pemrograman mobile menggunakan Flutter.
-
-Proyek ini digunakan sebagai bagian dari proses pembelajaran
-dan pengembangan aplikasi pada perkuliahan Pemrograman Mobile.
-
-## Pengembang
-
-Nama panggilan / akun GitHub: tandikawinata-max
-
-## Teknologi
-
-- Flutter
-- Dart
-- Android Studio
-- Visual Studio Code
-
-## Status
-
-Proyek awal perkuliahan.
-
 ## Tujuan
 
-Proyek ini bertujuan untuk memahami dasar-dasar pengembangan
-aplikasi mobile menggunakan Flutter, mulai dari pembuatan project,
-pengembangan antarmuka, hingga pengelolaan source code menggunakan Git dan GitHub.
+Proyek ini bertujuan untuk mempelajari dasar-dasar pengembangan aplikasi
+mobile menggunakan Flutter serta memahami proses pengelolaan source code
+menggunakan Git dan GitHub.
+
+## Rencana Fitur
+
+1. Tampilan antarmuka aplikasi mobile.
+2. Navigasi antarhalaman.
+3. Pengelolaan dan penyajian data aplikasi.
+
+## Cara Menjalankan
+
+Pastikan Flutter sudah terpasang dan dapat digunakan melalui terminal.
+
+Jalankan perintah berikut pada direktori proyek:
+
+```bash
+flutter pub get
+flutter run
+```
